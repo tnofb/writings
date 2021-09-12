@@ -10,5 +10,5 @@ Spelling may improve gradually over time or abrubtly once I figure out how to in
 But this is primarily about putting words onto a blank page. Quanity quanity over quality.
 
 * table of contents
-2021-9-11 Best-of-3
+2021-9-11 [[file:bestOfThree.org][Best-of-3]]
 + How best-of-3 matches might impact professional men's tennis
