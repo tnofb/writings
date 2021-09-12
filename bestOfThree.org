@@ -1,4 +1,4 @@
-* The effect of Best-of-3 on men's major tennis tournaments
+* Best-of-3 on men's major tennis tournaments
 The accomplishments of professional tennis players are often boiled down to one number: how many major titles they've won.
 
 The major tournaments:
@@ -40,9 +40,9 @@ For an *extremely rough* look at how the men's major title records might hold up
     --> 20 - 6 = 14 major wins
 
 All of these records are, of course, still extremely impressive. ((It'd be interesting to speculate how many majors Federer would have won had Nadal and Djokovic not been around... how many majors Nadal would have won had Federer and Djokovic not been... etc))
-Note that I didn't speculate on major titles that they might have won had best-of-3 been in effect. Of course there are other problems with this analysis -- but, I suspect the error accumulates on the side of being too optimistic about the number of major titles they would have won. That is, I think given a best-of-3 format Federer, Nadal, and Djokovic might win even fewer than my estimation here: not only would they then be more susceptible to streaky players but the shorter matches would mean that they were facing less-exhausted players in later rounds.
+Note that I didn't speculate on major titles that they might have won had best-of-3 been in effect. Of course there are other problems with this analysis -- but, I suspect the error accumulates on the side of being too optimistic about the number of major titles they would have won. That is, I think given a best-of-3 format Federer, Nadal, and Djokovic might win even fewer than my estimation here: not only would they be more susceptible to streaky players but the shorter matches would mean that they were facing less-exhausted players in later rounds.
 
 
 Best-of-5
 Negative impact on top players
-+ Perhaps longer matches lead to more injuries lead to shorter effective careers? ((I don't have data really weighing either way on this.))
++ Perhaps longer matches lead to more injuries lead to shorter effective careers? ((I don't have data really weighing either way on this. It does seem that [[https://pubmed.ncbi.nlm.nih.gov/21502889/][for top 10 players, the average career length is fairly similar between men and women]] but I'm not sure this is enough to really say anything))
