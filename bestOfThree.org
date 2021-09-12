@@ -1,0 +1,48 @@
+* The effect of Best-of-3 on men's major tennis tournaments
+The accomplishments of professional tennis players are often boiled down to one number: how many major titles they've won.
+
+The major tournaments:
++ Australian Open
++ French Open
++ Wimbledon
++ US Open
+
+On the men's side, Pete Sampras had 14 major titles in 2002. Now, on the eve of Djokovic's attempt at the [[https://en.wikipedia.org/wiki/Grand_Slam_(tennis)][grand slam]], Federer, Nadal, and Djokovic each sit at 20 major titles.
+
+On the women's side, there are several players with similar records. Serena Williams has 23 majors. Steffi Graf has 22. Chris Evert and Martina Navratilova have 18.
+
+But to anyone familiar with professional tennis, they know there's a difference in how men's and women's majors are played. Women play best-of-3 sets. Men play best-of-5.
+
+Within any major tournament, I suspect the best-of-5 format supports the top male players -- increasing the likelyhood of repeat champions. But, potentially, the best-of-5 format endured over a career provides some negative pressure on high numbers.
+
+Best-of-5
+Positive impact for top players
++ The longer format reduces the impact of streaks. The "worse" player has to sustain a high level for 3 sets rather than just 2.
++ The longer format means that fitness plays a larger role. And fitness is a factor that is relatively stable relative to other aspects of a tennis match (having a good day serving/hitting forehands/etc). As a match lengthens, the more-fit player increases their odds of winning points. ((I strongly suspect this is true but would love to see numbers on this))
+
+ 
+For an *extremely rough* look at how the men's major title records might hold up in the shorter best-of-3 format, I looked at matches that would have negated Federer, Nadal, and Djokovic's various major wins.
++ Federer
+    - 2009 French Open (Losing to T. Haas in the 4th round)
+    - 2012 Wimbledon (Losing to J. Benneteau in the 3rd)
+    --> 20 - 2 = 18 major wins
++ Nadal
+    - 2010 Wimbledon (R. Haase in 2nd round)
+    - 2011 French Open (J. Isner in 1st)
+    --> 20 - 2 = 18 major wins
++ Djokovic
+    - 2011 US Open (R. Federer in Semis)
+    - 2012 Aus Open (A. Murray in Semis)
+    - 2014 Wimbledon (M. Cilic in quarters)
+    - 2015 Wimbledon (K. Anderson in 4th)
+    - 2020 Australian Open (D. Thiem in finals)
+    - 2021 French Open (L. Musetti in 4th)
+    --> 20 - 6 = 14 major wins
+
+All of these records are, of course, still extremely impressive. ((It'd be interesting to speculate how many majors Federer would have won had Nadal and Djokovic not been around... how many majors Nadal would have won had Federer and Djokovic not been... etc))
+Note that I didn't speculate on major titles that they might have won had best-of-3 been in effect. Of course there are other problems with this analysis -- but, I suspect the error accumulates on the side of being too optimistic about the number of major titles they would have won. That is, I think given a best-of-3 format Federer, Nadal, and Djokovic might win even fewer than my estimation here: not only would they then be more susceptible to streaky players but the shorter matches would mean that they were facing less-exhausted players in later rounds.
+
+
+Best-of-5
+Negative impact on top players
++ Perhaps longer matches lead to more injuries lead to shorter effective careers? ((I don't have data really weighing either way on this.))
