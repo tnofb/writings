@@ -14,5 +14,5 @@ Spelling may improve gradually over time or abrubtly once I figure out how to in
 But this is primarily about putting words onto a blank page. Quanity quanity over quality.
 
 * table of contents
-2021-9-11 [[file:bestOfThree.org][Best-of-3]] :: How best-of-3 matches might impact men's professional tennis
-2021-9-13 [[file:aDeliveryOfSpiders.org][A Delivery of Spiders]] :: A spider gave birth outside my apartment. The heartwarming tale of one person not dying by spider bites.
++ 2021-9-11 [[file:bestOfThree.org][Best-of-3]] :: How best-of-3 matches might impact men's professional tennis
++ 2021-9-13 [[file:aDeliveryOfSpiders.org][A Delivery of Spiders]] :: A spider gave birth outside my apartment. The heartwarming tale of one person not dying by spider bites.
