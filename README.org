@@ -4,15 +4,15 @@ Because right now I write slow and stuttering, constantly backtracking... and I 
 
 Secretely I hope to improve the quality too. And my thinking about various topics. But we'll see.
 
-*** use of github
+*** the use of github
 
-I'll attempt to use the features of github to submit revisions as time goes on. To fix clumsy wordings or add new clumsy wordings. To change arguments. To try different structures on which to hang the words. I think it may be interesting to track changes over time.
+I'll attempt to use the features of github to submit revisions as time goes on. To fix clumsy wordings or add new clumsy wordings. To change arguments. To try different structures on which to hang the words. I think it may be interesting to track changes over time and I think git is a good tool for that.
 
-I'm not terribly familiar with git nor github but I'll say this: feel free to do anything with anything you find here. I'm happy to take comments/criticism/suggestions and, if you want to do pull-requests, go ahead and I'll try to learn what exactly those are.
+I'm not terribly familiar with git nor github, especially in a collaborative setting, but I'll say this: feel free to do anything with anything you find here. I'm happy to take comments/criticism/suggestions and, if you want to do pull-requests, go ahead and I'll try to learn what exactly those are.
 
 Spelling may improve gradually over time or abrubtly once I figure out how to install spellcheck in emacs.
 But this is primarily about putting words onto a blank page. Quanity quanity over quality.
 
 * table of contents
-2021-9-11 [[file:bestOfThree.org][Best-of-3]]
-+ How best-of-3 matches might impact men's professional tennis
+2021-9-11 [[file:bestOfThree.org][Best-of-3]] :: How best-of-3 matches might impact men's professional tennis
+2021-9-13 [[file:aDeliveryOfSpiders.org][A Delivery of Spiders]] :: A spider gave birth outside my apartment. The heartwarming tale of one person not dying by spider bites.
